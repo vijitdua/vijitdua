@@ -10,6 +10,7 @@ I'm Vijit, a CS student at UC Davis with a side quest in entrepreneurship. I'm a
 - **Languages:** JavaScript/Node.js | TypeScript | C++ | C | Python | Java
 - **Databases:** MySQL, PostgreSQL, MongoDB, FireStore
 - **Dev. Ops:**  Git, GitHub, Docker, AWS EC2, Firebase, Linux, NGINX, AWS Cognito
+- **Creative Suite:** DaVinci Resolve | Ableton | Gimp
 
 ## 💡 Interests
 
