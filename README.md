@@ -8,7 +8,7 @@ I'm Vijit, a CS student at UC Davis with a side quest in entrepreneurship. I'm a
 
 - **Frameworks & Tools:** React | React Native | Expo | Express | FastAPI | Django | Material UI | HTML | CSS
 - **Languages:** JavaScript/Node.js | TypeScript | C++ | C | Python | Java
-- **Databases:** MySQL, PostgreSQL, MongoDB, FireStore
+- **Databases:** PostgreSQL, MySQL, Sequalize, MongoDB, FireStore 
 - **Dev. Ops:**  Git, GitHub, Docker, AWS EC2, Firebase, Linux, NGINX, AWS Cognito
 - **Creative Suite:** DaVinci Resolve | Ableton | Gimp
 
