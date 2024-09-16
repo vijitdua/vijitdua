@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm Vijit, a CS student at UC Davis with a side quest in entrepreneurship. I'm all about blending coding with my dream to kick off something cool on my own. My tech stack includes Java, JavaScript, React.js, Python, PyTorch, and more. You can check out some of my projects right here on GitHub! [More About Me](https://vijitdua.com/)
+I'm Vijit, a CS student at UC Davis with a side quest in entrepreneurship. I'm all about blending coding with my dream to kick off something cool on my own. My tech stack includes JavaScript, Express.js, React.js, Python, PyTorch, Java and more. You can check out some of my projects right here on GitHub! [More About Me](https://vijitdua.com/)
 
 
 ## 📩 Projects
