@@ -1,5 +1,8 @@
 # 👋 Hey, I'm Vijit Dua!
 
+## Portfolio
+[Check out My Web Portfolio Here!](https://vijitdua.com)
+
 ## 🚀 About Me
 
 I'm Vijit, a CS student at UC Davis with a side quest in entrepreneurship. I'm all about blending coding with my dream to kick off something cool on my own. My tech stack includes JavaScript, Express.js, React.js, Python, PyTorch, Java and more. You can check out some of my projects right here on GitHub! [More About Me](https://vijitdua.com/)
