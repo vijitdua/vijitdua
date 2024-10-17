@@ -1,7 +1,10 @@
 # 👋 Hey, I'm Vijit Dua!
 
-## Portfolio
+# Portfolio
+
 [Check out My Web Portfolio Here!](https://vijitdua.com)
+
+---
 
 ## 🚀 About Me
 
