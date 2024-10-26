@@ -10,12 +10,6 @@
 
 I'm Vijit, a CS student at UC Davis with a side quest in entrepreneurship. I'm all about blending coding with my dream to kick off something cool on my own. My tech stack includes JavaScript, Express.js, React.js, Python, PyTorch, Java and more. You can check out some of my projects right here on GitHub! [More About Me](https://vijitdua.com/)
 
-
-## 📩 Projects
-
-- While most of my high-quality work is closed-source due to being part of larger projects, you can check out [TeamSync](https://github.com/vijitdua/TeamSync/), my only available (but incomplete) decently structured project on GitHub.
-- A few apps will be open-sourced soon 😉, including the frontend for my project [InnoGreet](https://innogreet.com/)'s beta app once the beta period is over.
-
 ## 🛠️ Skills
 
 - **Frameworks & Tools:** React.js, React Native, Expo, Express.js, FastAPI, Django, Material UI, HTML, CSS
