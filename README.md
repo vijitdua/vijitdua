@@ -26,7 +26,7 @@ And you can check out my open source projects right here on GitHub!
 
 ## 💡 Interests
 
-When I'm not buried building/managing projects or busy being a university student, I'm:
+When I'm not buried in projects or busy being a student, I'm:
 - 🏃‍♂️ Biking the trails, hitting the pavement on my runs, or frequenting the gym to stay fit.
 - 👥 Living for the thrill of meeting new people and diving into conversations—from casual banter to deep discussions over physics & philosopphy.
 - 🎥 Creating and editing videos for my [YouTube channel](https://youtube.com/@vijitdua).
