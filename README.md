@@ -26,10 +26,10 @@ And you can check out my open source projects right here on GitHub!
 
 ## 💡 Interests
 
-When I'm not buried in code, I'm:
-- 🏃‍♂️ Biking the trails, hitting the pavement on my runs, or frequenting the gym to stay fit
-- 👥 
-- 🎥 Creating and editing videos for my [YouTube channel](https://youtube.com/@vijitdua)
+When I'm not buried building/managing projects or busy being a university student, I'm:
+- 🏃‍♂️ Biking the trails, hitting the pavement on my runs, or frequenting the gym to stay fit.
+- 👥 Living for the thrill of meeting new people and diving into conversations—from casual banter to deep discussions over physics & philosopphy.
+- 🎥 Creating and editing videos for my [YouTube channel](https://youtube.com/@vijitdua).
 - 🎶 Occasionally dabbling in music production with Ableton
 - 🎮 (Rarely, but sometimes) Wielding lightsabers in BeatSaber, hopping onto population one, flying away in Rocket League, or exploring other (primarily VR, MacOS, or game-porting / Whisky - MacOS) games.
 
